@@ -52,8 +52,34 @@ Hráč sa snaží usporiadať náhodne generované bloky tak, aby vytvoril kompl
 - ``position`` - Jednoduchá trieda uchovávajúca súradnice bloku na gride.
 - ``colors`` - Trieda definujúca farby blokov a pozadia.
 
+
+## 3. Grafika
+
+### 3.1 Dizajn
+- Použitý je minimalistický retro dizajn, ktorý je charakteristický pre hernú stránku Tetrisu
+
+
 <div align="center">
   <img src="tetris_obrazok_1.png" alt="tetris_game">
   <br>
   <em>Obrázok z hry Tetris</em>
 </div>
+
+
+___
+
+## 4. Zvuky
+- Zvuky boli použité pri otáčaní blokov, páde blokov, zničení riadku blokov a pri štarte do hry
+- Použité assety: https://www.sounds-resource.com/nintendo_switch/tetris99/sound/19376/
+
+## 5. Herný zážitok
+
+### 5.1 Používateľské rozhranie
+- **Minimalistické UI** - Zobrazuje aktuálne skóre hráča
+- **Indikácia nasledujúceho bloku** - Zobrazenenie následujúceho bloku pre lepšiu strategickú prípravu hráča
+
+### 5.2 Ovládanie
+- **šípka doľava/doprava** - pohyb blokov do strán
+- **šípka dohora** - rotácia bloku
+- **šípka dole** - zrýchlenie pádu bloku
+- **ENTER** - pre začatie/reštartnutie hry
