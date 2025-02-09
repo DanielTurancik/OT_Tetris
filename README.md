@@ -18,6 +18,17 @@ Tetris je ikonická logická hra, v ktorej hráč usporadúva padajúce bloky ta
 
 Cieľom hry je dosiahnuť čo najvyššie skóre postupným usporadúvaním blokov. Hráč sa snaží zabrániť tomu, aby sa hracia plocha zaplnila blokmi, čo vedie ku koncu hry. Postupne sa zvyšuje rýchlosť hry, čím sa zvyšuje náročnosť.
 
+___
+
+<div align="center">
+  <img src="tetris_obrazok_2.png" alt="tetris_game">
+  <br>
+  <em>Obrázok z úvodnej obrazovky hry Tetris</em>
+</div>
+
+___
+
+
 ### 1.3 Vývojový softvér
  - **Pygame-CE:** Zvolený programovací jazyk a knižnica pre implementáciu.
  - **PyCharm 2024.3.2:** Vybrané IDE na vývoj hry.
