@@ -20,7 +20,7 @@ Cieľom hry je dosiahnuť čo najvyššie skóre postupným usporadúvaním blok
 
 ### 1.3 Vývojový softvér
  - **Pygame-CE:** Zvolený programovací jazyk a knižnica pre implementáciu.
- - **PyCharm 2024.1:** Vybrané IDE na vývoj hry.
+ - **PyCharm 2024.3.2:** Vybrané IDE na vývoj hry.
 
 ## 2. Koncept
 
@@ -33,10 +33,11 @@ Hráč sa snaží usporiadať náhodne generované bloky tak, aby vytvoril kompl
  - **Tvorba kompletných riadkov:** Riadky sa odstraňujú, keď sú úplne vyplnené.
 
 ### 2.3 Návrh tried
-- ``main`` -
-- ``game`` -
-- ``grid`` -
-- ``block`` - 
-- ``blocks`` - 
-- ``position`` -
+- ``main`` - Hlavný súbor, spúšťa hru a inicializuje herné komponenty.
+- ``game`` - Trieda riadiaca celkový chod hry, obsahuje hlavné herné mechaniky.
+- ``grid`` - Trieda spravujúca hraciu plochu, detekuje a odstraňuje kompletné riadky.
+- ``block`` - Trieda predstavujúca základný herný blok
+- ``blocks`` - Obsahuje definície tvarov a farieb blokov.
+- ``position`` - Jednoduchá trieda uchovávajúca súradnice bloku na gride.
+- ``colors`` - Trieda definujúca farby blokov a pozadia.
 
