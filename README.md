@@ -41,3 +41,5 @@ Hráč sa snaží usporiadať náhodne generované bloky tak, aby vytvoril kompl
 - ``position`` - Jednoduchá trieda uchovávajúca súradnice bloku na gride.
 - ``colors`` - Trieda definujúca farby blokov a pozadia.
 
+![tetris_game](.png)
+<div align="center"><em>Obrázok z hry Tetris</em></div>
