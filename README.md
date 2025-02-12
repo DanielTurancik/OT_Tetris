@@ -83,3 +83,4 @@ ___
 - **šípka dohora** - rotácia bloku
 - **šípka dole** - zrýchlenie pádu bloku
 - **ENTER** - pre začatie/reštartnutie hry
+- **SPACE** - podržanie klávesy pre rýchlejší pád bloku
